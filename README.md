@@ -1,6 +1,6 @@
 ### Hi there 👋<!--, my telegram and my telegram bots-->
 
-<a href="https://t.me/devops_engeener"><img align="left" alt="NetworK's Telegram" src="https://img.shields.io/badge/devops_engeener-black?style=social&logo=telegram&logoColor=blue" /></a>
+<a href="https://t.me/ThePrincipalSRE"><img align="left" alt="NetworK's Telegram" src="https://img.shields.io/badge/ThePrincipalSRE-black?style=social&logo=telegram&logoColor=blue" /></a>
 
 <!--
 Иконки тут:
